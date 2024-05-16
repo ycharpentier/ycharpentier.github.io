@@ -252,7 +252,7 @@ sections:
         Feel free to contact me.
       # Contact (add or remove contact options as necessary)
       email: yoan.charpentier@etu.uca.fr
-      phone: 888 888 88 88
+      phone: +33 (0)789 891 091
       #appointment_url: 'https://calendly.com'
       address:
         street: Campus Universitaire des Cezeaux, 2 Av. Blaise Pascal
