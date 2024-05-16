@@ -101,8 +101,8 @@ sections:
       columns: '2'
   - block: accomplishments
     content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading. Before we had Accomp &shy; shment 
+      title: 'Training Courses'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -112,32 +112,32 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://www.linkedin.com/learning/certificates/f86170a6eded9741cedeb8af4d6a066cbcae10f6a582952cde8d683aaef66cd0
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2023-12-01'
           description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          icon: org-linkedin
+          organization: LinkedIn
+          organization_url: https://www.linkedin.com/
+          title: Git's essential
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: https://www.linkedin.com/learning/certificates/0294a35e0486ceb4bf43b66e4fdd77170e47f37b8a7cb3260931a163be1e29fb?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BWA7eL6GGRsyuYHGgxN8xGg%3D%3D
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          date_start: '2023-12-11'
           description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          icon: org-linkedin
+          organization: LinkedIn
+          organization_url: https://www.linkedin.com/
+          title: Learning R
+          url: ''
+        - certificate_url: https://www.linkedin.com/learning/certificates/8eef1978598c63fba4e54ee2b34205e828debaaed1fba95b147399d4d22c5d31
+          date_end: ''
+          date_start: '2023-12-07'
+          description: ''
+          icon: org-linkedin
+          organization: LinkedIn
+          organization_url: https://www.linkedin.com/
+          title: Statistics with Python
           url: ''
     design:
       columns: '2'
