@@ -73,8 +73,8 @@ skills:
       - name: Communicator
         description: 'Class Delegate, Treasurer'
         percent: 80
-        icon: megaphone
-        icon_pack: fas
+        icon: fa-comments
+        icon_pack: far
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
