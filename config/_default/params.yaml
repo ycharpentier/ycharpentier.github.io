@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: forest
-  theme_night: forest
+  theme_day: Dark
+  theme_night: Dark
   font: minimal
-  font_size: L
+  font_size: m
 
 # SEO
 
