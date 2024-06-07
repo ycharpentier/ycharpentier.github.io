@@ -45,8 +45,7 @@ print('hello')
 
 
 ## Features
-
-- **Page builder** - Create _anything_ with [**widgets**](https://docs.hugoblox.com/page-builder/) and [**elements**](https://docs.hugoblox.com/content/writing-markdown-latex/)
+<div style="text-align: justify"> - **Page builder** - Create _anything_ with [**widgets**](https://docs.hugoblox.com/page-builder/) and [**elements**](https://docs.hugoblox.com/content/writing-markdown-latex/)
 - **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
 - **Create content** in [**Markdown**](https://docs.hugoblox.com/content/writing-markdown-latex/), [**Jupyter**](https://docs.hugoblox.com/import/jupyter/), or [**RStudio**](https://docs.hugoblox.com/install-locally/)
 - **Plugin System** - Fully customizable [**color** and **font themes**](https://docs.hugoblox.com/customization/)
@@ -60,7 +59,9 @@ print('hello')
 - **Multi-user** - Each author gets their own profile page
 - **Privacy Pack** - Assists with GDPR
 - **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
+- **One-Click Deployment** - No servers. No databases. Only files. </div>
+
+
 
 ## Themes
 
