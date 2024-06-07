@@ -5,6 +5,7 @@ tags:
   - Logistics
   - E-trucks
   - Optimisation
+  - Deep Learning
 date: '2024-07-06T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
