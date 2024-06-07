@@ -84,9 +84,6 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: envelope
-    icon_pack: fas
     link: mailto:ycharpentier_pro@protonmail.com
     label: Send a mail
     display:
