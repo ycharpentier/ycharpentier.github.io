@@ -51,29 +51,40 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Self-Learner
-        description: ''
+      - name: Python
+        description: 'Pandas, NumPy, scikit-learn, Keras'
         percent: 80
         icon: python
         icon_pack: fab
       - name: Data Mining
-        description: ''
+        description: 'Information retrieving'
         percent: 100
         icon: chart-line
         icon_pack: fas
       - name: Machine Learning
-        description: ''
+        description: 'Knowledge on classical alogirthms, statistics'
         percent: 80
         icon: database
         icon_pack: fas
+      - name : Writer
+        description: Ability to provide a state of the art on an IT subject
+        percent: 85
+        icon: pen-nib
+        icon_pack: fas
+
   - name: Soft Skills
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Communicator
         description: 'Class Delegate, Treasurer'
-        percent: 80
+        percent: 90
         icon: comment
+        icon_pack: fas
+      - name: Self-Learner
+        description: 'Ability to learn concepts autonomously'
+        percent: 80
+        icon: lines-leaning
         icon_pack: fas
 
 
