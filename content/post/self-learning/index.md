@@ -14,8 +14,6 @@ tags:
 
 categories:
   - psychology
-
-dummy: "`<style>body {text-align: justify;}</style>`"
 ---
 
 ## Why a blog ?
