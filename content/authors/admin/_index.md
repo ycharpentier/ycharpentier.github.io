@@ -31,7 +31,7 @@ bio: I am a first year master student in the engineering school Polytech Clermon
 interests:
   - Bayesian Statistics
   - Data Mining
-  - Information Retrieval
+
   - Machine Learning
   - Optimization
 
