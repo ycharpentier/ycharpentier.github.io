@@ -119,7 +119,7 @@ sections:
           icon: org-linkedin
           organization: LinkedIn
           organization_url: https://www.linkedin.com/
-          title: Become a Project Manager.
+          title: Become a Project Manager
           url: 'https://www.linkedin.com/learning/paths/devenir-chef-cheffe-de-projet'
 
         - certificate_url: https://www.linkedin.com/learning/certificates/f86170a6eded9741cedeb8af4d6a066cbcae10f6a582952cde8d683aaef66cd0

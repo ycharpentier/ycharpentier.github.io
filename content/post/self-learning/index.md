@@ -5,7 +5,7 @@ summary: 'A tutorial on being curious, study and report'
 subtitle: 'A tutorial on being curious, study and report'
 
 # Is this an unpublished draft?
-draft: true
+draft: false
 
 tags:
   - psychology
