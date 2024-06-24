@@ -100,16 +100,6 @@ sections:
               * Made a literature search on Self-Supervised Learning and Foundation Models
               * Mosquito species recognition task challenge, create latent representations using DINO model
 
-        - title: College Level Tutoring
-          company: Polytech Angers
-          company_url: 'https://polytech-angers.fr/en/index.html'
-          company_logo: org-poang
-          location: Angers, France
-          date_start: '2021-12-01'
-          date_end: '2022-03-31'
-          description: |2-
-              Responsibilities include:
-              * Taught 16 hours of courses for students in preparatory classes at Polytech engineering schools under the supervision of the department head (Algebra, Applied Mechanics, Analysis, Physics)
     design:
       columns: '2'
   - block: accomplishments
