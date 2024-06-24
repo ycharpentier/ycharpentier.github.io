@@ -62,13 +62,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+          title: Data Miner 
+          company: Crédit Agricole Centre France
+          company_url: 'https://www.credit-agricole.fr/ca-centrefrance/particulier.html'
+          company_logo: org-cacf
+          location: Clermont-Ferrand, France
+          date_start: '2024-09-01'
+          date_end: ''
+          description: |2-
+          description: |2-
+              Responsibilities include:
+              * Work/study training program
+              * Create scoring method
+
+      items:
         - title: Research Assistant Internship
           company: UiT- The Arctic University of Norway
           company_url: 'https://uit.no/startsida'
           company_logo: org-uit
           location: Narvik, Norway
-          date_start: '2023-03-02'
-          date_end: ''
+          date_start: '2024-03-02'
+          date_end: '2024-08-02'
           description: |2-
               Responsibilities include:
               * Performing an extensive literature review on charging station location problems
