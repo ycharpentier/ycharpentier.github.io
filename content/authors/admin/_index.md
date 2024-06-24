@@ -31,7 +31,6 @@ bio: I am a first year master student in the engineering school Polytech Clermon
 interests:
   - Bayesian Statistics
   - Data Mining
-
   - Machine Learning
   - Optimization
 
@@ -105,6 +104,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/ycharpentier/
+  - icon: kaggle
+    icon_pack: fab
+    link: https://www.kaggle.com/yoancharp
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
