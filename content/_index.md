@@ -70,7 +70,6 @@ sections:
           date_start: '2024-09-01'
           date_end: ''
           description: |2-
-          description: |2-
               Responsibilities include:
               * Work/study training program
               * Create scoring method
