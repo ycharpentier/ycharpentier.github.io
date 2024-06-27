@@ -89,6 +89,10 @@ skills:
         percent: 80
         icon: lines-leaning
         icon_pack: fas
+      - name: English
+        percent: 90
+        icon: language
+        icon_pack: fas
 
 
 # Social/Academic Networking
