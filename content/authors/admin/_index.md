@@ -70,6 +70,10 @@ skills:
         percent: 85
         icon: pen-nib
         icon_pack: fas
+      - name : VBA
+        percent: 60
+        icon: file-excel
+        icon_pack: fas
 
   - name: Soft Skills
     color: '#eeac02'
