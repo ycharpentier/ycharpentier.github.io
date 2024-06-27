@@ -71,6 +71,7 @@ skills:
         icon: pen-nib
         icon_pack: fas
       - name : VBA
+        percent: 60
         icon: file-excel
         icon_pack: fas
 
