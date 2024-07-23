@@ -126,5 +126,4 @@ social:
 highlight_name: true
 ---
 
-
-<div style="text-align: right"> I am a first year master student in the engineering school Polytech Clermont, department of mathematical engineering and data science. In the last year I got specialized in biostatistics (bayesian statistics, survival analysis) and artificial intelligence (deep learning, AI). </div>
+<p style='text-align: justify;'> I am a first year master student in the engineering school Polytech Clermont, department of mathematical engineering and data science. In the last year I got specialized in biostatistics (bayesian statistics, survival analysis) and artificial intelligence (deep learning, AI).</p>
