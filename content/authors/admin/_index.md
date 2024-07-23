@@ -25,7 +25,7 @@ organizations:
     url: https://polytech-clermont.fr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a first year master student in the engineering school Polytech Clermont, department of mathematical engineering and data science. In the last year I got specialized in biostatistics (bayesian statistics, survival analysis) and artificial intelligence (deep learning, AI).
+bio: I am a first year master student in the engineering school Polytech Clermont, department of mathematical engineering and data science.
 
 # Interests to show in About widget
 interests:
@@ -126,6 +126,6 @@ social:
 highlight_name: true
 ---
 
- I am a first year master student in the engineering school Polytech Clermont, department of mathematical engineering and data science.
+I am a first year master student in the engineering school Polytech Clermont, department of mathematical engineering and data science. In the last year I got specialized in biostatistics (bayesian statistics, survival analysis) and artificial intelligence (deep learning, AI).
 
 {style="text-align: justify;"}
