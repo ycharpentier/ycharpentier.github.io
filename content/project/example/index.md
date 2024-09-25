@@ -17,7 +17,7 @@ image:
 
 links:
 url_code: 'https://github.com/ycharpentier/charging-network'
-url_pdf: ''
+url_pdf: 'rapport_charpentier.pdf'
 url_slides: ''
 url_video: ''
 
