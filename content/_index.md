@@ -236,9 +236,9 @@ sections:
     id: contact
     content:
       title: Contact
-      subtitle:
-      text: |-
-        Feel free to contact me.
+      #subtitle:
+      #text: |-
+      #Feel free to contact me.
       # Contact (add or remove contact options as necessary)
       email: yoan.charpentier@etu.uca.fr
       phone: +33 (0)789 891 091
