@@ -209,8 +209,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Data Mining
+          tag: Data Mining
         - name: Other
           tag: Demo
     design:
