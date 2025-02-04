@@ -34,7 +34,7 @@ sections:
     design:
       background:
         gradient_end: '#F39C12'
-        gradient_start: '#004ba0'
+        gradient_start: '#F39C12'
         text_color_light: true
   - block: about.biography
     id: about
