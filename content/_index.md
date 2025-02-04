@@ -51,59 +51,6 @@ sections:
   #  design:
   #    columns: '1'
 
-  - block: accomplishments
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading. Before we had Accomp &shy; shment 
-      title: 'Training Courses'
-      subtitle:
-      # Date format: https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: https://www.linkedin.com/learning/certificates/e333a80577dbf9616a7f985bd167fdba8e527ff45788c6f6d4783d39de7a6edb
-          date_end: ''
-          date_start: '2024-01-02'
-          description: 'Communication, Stakeholder Relationship Management, Project Management, Microsoft Project, Project Management Software, Risk Management'
-          icon: org-linkedin
-          organization: LinkedIn
-          organization_url: https://www.linkedin.com/
-          title: Become a Project Manager
-          url: 'https://www.linkedin.com/learning/paths/devenir-chef-cheffe-de-projet'
-
-        - certificate_url: https://www.linkedin.com/learning/certificates/f86170a6eded9741cedeb8af4d6a066cbcae10f6a582952cde8d683aaef66cd0
-          date_end: ''
-          date_start: '2023-12-01'
-          description: ''
-          icon: org-linkedin
-          organization: LinkedIn
-          organization_url: https://www.linkedin.com/
-          title: Git's essential
-          url: ''
-
-        - certificate_url: https://www.linkedin.com/learning/certificates/0294a35e0486ceb4bf43b66e4fdd77170e47f37b8a7cb3260931a163be1e29fb?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BWA7eL6GGRsyuYHGgxN8xGg%3D%3D
-          date_end: ''
-          date_start: '2023-12-11'
-          description: ''
-          icon: org-linkedin
-          organization: LinkedIn
-          organization_url: https://www.linkedin.com/
-          title: Learning R
-          url: ''
-        - certificate_url: https://www.linkedin.com/learning/certificates/8eef1978598c63fba4e54ee2b34205e828debaaed1fba95b147399d4d22c5d31
-          date_end: ''
-          date_start: '2023-12-07'
-          description: ''
-          icon: org-linkedin
-          organization: LinkedIn
-          organization_url: https://www.linkedin.com/
-          title: Statistics with Python
-          url: ''
-    design:
-      columns: '2'
   - block: collection
     id: posts
     content:
