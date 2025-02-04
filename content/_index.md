@@ -39,79 +39,18 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: Hello !
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
-  - block: experience
-    content:
-      title: Experience
-      # Date format for experience
-      #   Refer to https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+  #- block: skills
+  #  content:
+  #    title: Skills
+  #    text: ''
+  #    # Choose a user to display skills from (a folder name within `content/authors/`)
+  #    username: admin
+  #  design:
+  #    columns: '1'
 
-      items:
-        - title: Data Miner 
-          company: Crédit Agricole Centre France
-          company_url: 'https://www.credit-agricole.fr/ca-centrefrance/particulier.html'
-          company_logo: org-cacf
-          location: Clermont-Ferrand, France
-          date_start: '2024-09-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
-              * Work/study training program
-              * Create scoring method
-              
-        - title: Research Assistant Internship
-          company: UiT- The Arctic University of Norway
-          company_url: 'https://uit.no/startsida'
-          company_logo: org-uit
-          location: Narvik, Norway
-          date_start: '2024-03-02'
-          date_end: '2024-08-02'
-          description: |2-
-              Responsibilities include:
-              * Performing an extensive literature review on charging station location problems
-              * Developing a mathematical optimization to jointly design a distribution-infrastructural network using AMPL
-              * Developing a solution method and code the algorithm to solve the mathematical optimization problem
-
-        - title: Artificial Intelligence Internship
-          company: Akkodis
-          company_url: 'https://www.akkodis.com/'
-          company_logo: org-akk
-          location: Aubière, France
-          date_start: '2023-06-16'
-          date_end: '2023-07-31'
-          description: |2-
-              Responsibilities include:
-              * Made a literature search on Self-Supervised Learning and Foundation Models
-              * Mosquito species recognition task challenge, create latent representations using DINO model
-
-        - title: College Level Tutoring
-          company: Polytech Angers
-          company_url: 'https://polytech-angers.fr/en/index.html'
-          company_logo: org-poang
-          location: Angers, France
-          date_start: '2021-12-01'
-          date_end: '2022-03-31'
-          description: |2-
-              Responsibilities include:
-              * Taught 16 hours of courses for students in preparatory classes at Polytech engineering schools under the supervision of the department head (Algebra, Applied Mechanics, Analysis, Physics)
-    design:
-      columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading. Before we had Accomp &shy; shment 
