@@ -105,6 +105,12 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+
+  - block: markdown
+    content: 
+      title: Interesting Books and Websites
+      text:  TEST1
+
   - block: markdown
     content:
       title: Gallery
