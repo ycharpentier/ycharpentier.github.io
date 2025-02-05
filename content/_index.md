@@ -78,6 +78,8 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
+
+
   - block: portfolio
     id: projects
     content:
@@ -109,8 +111,11 @@ sections:
   - block: markdown
     content: 
       title: Interesting Books and Websites
-      text: [Refactoring Guru](https://refactoring.guru/design-patterns)
-            [The Grammar According to West](https://dwest.web.illinois.edu/grammar.html)
+      filters:
+        folders:
+          - booksandwebsite
+
+
   - block: markdown
     content:
       title: Gallery
@@ -119,11 +124,16 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
+
+
   - block: tag_cloud
     content:
       title: Popular Topics
     design:
       columns: '2'
+
+
+
   - block: contact
     id: contact
     content:
