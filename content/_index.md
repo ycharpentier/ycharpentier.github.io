@@ -109,8 +109,7 @@ sections:
   - block: markdown
     content: 
       title: Interesting Books and Websites
-      text:  TEST1
-
+      text: [Refactoring Guru](https://refactoring.guru/design-patterns)
   - block: markdown
     content:
       title: Gallery
