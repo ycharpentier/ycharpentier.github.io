@@ -110,6 +110,7 @@ sections:
     content: 
       title: Interesting Books and Websites
       text: [Refactoring Guru](https://refactoring.guru/design-patterns)
+            [The Grammar According to West](https://dwest.web.illinois.edu/grammar.html)
   - block: markdown
     content:
       title: Gallery
