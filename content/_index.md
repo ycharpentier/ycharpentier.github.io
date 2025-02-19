@@ -111,7 +111,7 @@ sections:
   - block: markdown
     content: 
       title: Interesting Books and Websites
-      text : Hello there
+      text : <h1> Websites </h1> <br> <ul> <li> Hello </li> </ul>
 
 
   - block: markdown
