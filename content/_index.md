@@ -114,7 +114,7 @@ sections:
       text : <h1> Websites </h1> <br> 
              <ul>
                 <li> <a href="https://refactoring.guru/design-patterns">Design Pattern </a> </li>
-                <li> test </li>
+                <li> <a href="https://arxiv.org/pdf/1906.02691">Introduction to VAE</a>  </li>  
               </ul> <br> <h1> Books </h1>
               <ul>
                 <li> <a href="https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf"> Pattern Recognition and Machine Learning, Bishop (2006) </a> </li>
