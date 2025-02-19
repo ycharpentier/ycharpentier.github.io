@@ -111,8 +111,20 @@ sections:
   - block: markdown
     content: 
       title: Interesting Books and Websites
-      text : <h1> Websites </h1> <br> <ul> <li> <a href="https://refactoring.guru/design-patterns">Design Pattern </a> </li> <li> test</li></ul>
+      text : 
+            <div style="display:block; width:100%;">
+              <div style="width:50%; float: left; display: inline-block;">
+              <h1> Websites </h1> <br> 
+                <ul>
+                  <li> <a href="https://refactoring.guru/design-patterns">Design Pattern </a> </li>
+                  <li> test </li>
+                </ul>
+              </div>
 
+              <div style="width:50%; float: left; display: inline-block;">
+                <h1> Books </h1> <br>
+              </div>
+            </div>
 
 
   - block: markdown
