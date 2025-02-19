@@ -111,9 +111,7 @@ sections:
   - block: markdown
     content: 
       title: Interesting Books and Websites
-      filters:
-        folders:
-          - booksandwebsite
+      text : Hello there
 
 
   - block: markdown
