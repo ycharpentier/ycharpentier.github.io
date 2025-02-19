@@ -80,4 +80,4 @@ social:
 highlight_name: true
 ---
 
-<p style='text-align: justify;'> I am a first year master student in the engineering school Polytech Clermont, department of mathematical engineering and data science. In the last year I got specialized in biostatistics (bayesian statistics, survival analysis) and artificial intelligence (deep learning, AI).</p>
+<p style='text-align: justify;'> I am a first year master student in the engineering school Polytech Clermont, department of mathematical engineering and data science. In the last year I got specialized in biostatistics (bayesian statistics, survival analysis) and artificial intelligence (deep learning, AI). I am also Data Miner in Crédit Agricole Centre France as a work/study student. For more details, see my resume. </p>
