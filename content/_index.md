@@ -117,8 +117,8 @@ sections:
                 <li> test </li>
               </ul> <br> <h1> Books </h1>
               <ul>
-                <li> <a href="https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf"> Pattern Recognition and Machine LEarning, Bishop (2006) </a> </li>
-
+                <li> <a href="https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf"> Pattern Recognition and Machine Learning, Bishop (2006) </a> </li>
+                <li> <a href="https://algs4.cs.princeton.edu/home/"> Algorithms, Sedgewick </a> </li>
               </ul>
 
 
