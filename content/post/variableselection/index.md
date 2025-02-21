@@ -1,6 +1,8 @@
 ---
-title: 'SelDel: Graph-based way for variable selection' 
+title: 'SeDe: Graph-based algorithm for variable selection' 
 date: '2024-11-04'
+summary: 'Selection Deletion Algorithm'
+subtitle: 'Selection Deletion Algorithm'
 
 # Is this an unpublished draft?
 draft: false
