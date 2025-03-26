@@ -30,7 +30,7 @@ bio: I am a first year master student in the engineering school Polytech Clermon
 # Interests to show in About widget
 interests:
   - Bayesian Statistics
-  - Data Mining
+  - Dimensionality reduction
   - Machine Learning
   - Biostatistics
 
@@ -38,9 +38,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Data Science and Mathematics Engineer
+    - course: Mathematical Engineering and Data Science
       institution: Polytech Clermont
-      year: 2022-2025
+      year: 2022-2025 (expected)
     - course: Preparatory Classes
       institution: Polytech Angers
       year: 2020-2022
